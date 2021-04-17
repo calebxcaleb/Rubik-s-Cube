@@ -1,0 +1,7 @@
+# CSC111 Final Project: Python libraries used in this final project.
+
+# Testing and code checking
+python-ta~=1.6.3
+
+# Graphics
+pygame~=2.0.1
